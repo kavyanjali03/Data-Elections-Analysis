@@ -1,0 +1,7 @@
+import
+
+plotly
+matplotlib
+beautifulsoup4
+pandas
+requests
